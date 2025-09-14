@@ -1,0 +1,8 @@
+rpc_url = "https://polygon-rpc.com"
+dex_a_router = "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506" # SushiSwap example
+dex_b_router = "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff" # QuickSwap example
+token_a = "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619" # WETH
+token_b = "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174" # USDC
+min_profit_usdc = 1.0
+trade_amount = 0.1
+gas_cost_usdc = 0.2
